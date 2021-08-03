@@ -42,7 +42,7 @@ function Contact() {
             />
           </div>
           <div className="d-grid gap-2 col-4 mx-auto">
-            <a href="mailto:deepeshniranjan@gmail.com" class="btn btn-primary">
+            <a href="mailto:tripathiharsh16@gmail.com" class="btn btn-primary">
               SUBMIT
             </a>
           </div>

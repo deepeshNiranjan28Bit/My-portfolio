@@ -21,17 +21,26 @@ function Card() {
                 better technology.If you want to collaborate, then do reach me
                 out using below links.
               </p>
-              <a href="#" className="btn btn-primary btn-sm">
+              <a
+                href="https://github.com/harsh-2024"
+                className="btn btn-primary btn-sm"
+              >
                 Here's my Github profile
               </a>
               <br />
               <br />
-              <a href="#" className="btn btn-primary btn-sm">
+              <a
+                href="https://www.linkedin.com/in/harsh-tripathi-7ba9391b8/"
+                className="btn btn-primary btn-sm"
+              >
                 Here's my linked-in profile
               </a>
               <br />
               <br />
-              <a href="#" className="btn btn-primary btn-sm">
+              <a
+                href="https://www.instagram.com/harsh.tripathi.16/"
+                className="btn btn-primary btn-sm"
+              >
                 Here's my insta account
               </a>
             </div>
