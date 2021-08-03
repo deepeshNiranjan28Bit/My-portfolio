@@ -36,7 +36,7 @@ function Contact() {
             </label>
             <input
               type="email"
-              classNAme="form-control"
+              className="form-control"
               id="exampleFormControlInput1"
               placeholder="Enter your address...."
             />
