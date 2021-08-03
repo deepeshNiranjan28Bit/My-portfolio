@@ -12,28 +12,28 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/about">
+        <Route exact path="/about">
           <Nav />
           <br />
           <br />
           <br />
           <About />
         </Route>
-        <Route path="/contact">
+        <Route exact path="/contact">
           <Nav />
           <br />
           <br />
           <br />
           <Contact />
         </Route>
-        <Route path="/projects">
+        <Route exact path="/projects">
           <Nav />
           <br />
           <br />
           <br />
           <Projects />
         </Route>
-        <Route path="/My-portfolio">
+        <Route exact path="/My-portfolio">
           <Jump>
             <Nav />
           </Jump>
