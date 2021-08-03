@@ -13,3 +13,6 @@
 .compPic {
   align-content: center;
 }
+.navbar {
+  z-index: 9;
+}
