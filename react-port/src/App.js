@@ -33,7 +33,7 @@ function App() {
           <br />
           <Projects />
         </Route>
-        <Route path="/">
+        <Route path="/My-portfolio">
           <Jump>
             <Nav />
           </Jump>
